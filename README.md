@@ -30,22 +30,6 @@ Based in 🇸🇬 Singapore • 13+ years in engineering • Web, Cloud, and Dev
 
 ---
 
-### 📊 GitHub Stats
-
-![Ashok's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashokgharpankar&show_icons=true&theme=radical)
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Link |
-| --- | --- | --- |
-| **TNP Drupal Migration** | Led the full migration of a complex Drupal 7 platform to Drupal 11 with decoupled React frontend | [tnp-drupal](https://github.com/ashokgharpankar/tnp-drupal) |
-| **Web2 Frontend Framework** | Developed scalable React.js frontend for enterprise CMS integrations and CaaS platforms | [tnp-web2-frontend](https://github.com/ashokgharpankar/tnp-web2-frontend) |
-| **Infrastructure Automation** | Terraform modules & GitHub Actions workflows for CI/CD, EKS, and Lambda deployments on AWS | [tnp-infra-automation](https://github.com/ashokgharpankar/tnp-infra-automation) |
-
----
-
 ### 📖 Learning & Interests
 
 - 🔍 Exploring GenAI integration in CMS workflows  
@@ -62,4 +46,3 @@ Based in 🇸🇬 Singapore • 13+ years in engineering • Web, Cloud, and Dev
 ---
 
 > "Code is poetry. Architect it like you're writing a symphony."
-
