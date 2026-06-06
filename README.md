@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ashok Gharpankar
 
 **🚀 Senior Lead Engineer | Aspiring Technical Architect | Drupal & Full-Stack Specialist**  
-Based in 🇸🇬 Singapore • 13+ years in engineering • Web, Cloud, and DevOps Enthusiast
+Based in 🇸🇬 Singapore • 13+ years in engineering • Web, Cloud, DevOps and AI Enthusiast
 
 ---
 
