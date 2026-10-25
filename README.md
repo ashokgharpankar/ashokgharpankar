@@ -2,7 +2,7 @@
 
 **Senior Lead Engineer → Technical Architect | Digital Platforms · Cloud (AWS) · Headless CMS · GenAI**
 
-13+ years building and modernizing large-scale web and publishing platforms. I lead teams through migrations, design cloud-native systems on AWS, and I'm now bringing LLM-powered workflows into editorial and CMS pipelines.
+15+ years building and modernizing large-scale web and publishing platforms. I lead teams through migrations, design cloud-native systems on AWS, and I'm now bringing LLM-powered workflows into editorial and CMS pipelines.
 
 ---
 
