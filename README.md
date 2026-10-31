@@ -17,13 +17,18 @@
 
 ---
 
-### 🚀 Featured Project
+### 🚀 Projects
 
 **[ai-content-tagger](https://github.com/ashokgharpankar/ai-content-tagger)** — LLM-powered editorial tagging assistant
 - Generates summaries, topic tags, and section classification against a 15-category publishing taxonomy
-- Single `call_llm()` choke-point for swapping LLM vendors
+- Single `call_llm()` choke-point for swapping LLM vendors (OpenAI, AWS Bedrock)
 - Guardrails for malformed JSON, missing fields, and hallucinated categories
 - Fully mocked test suite (no API calls needed) · Streamlit UI · URL-to-article fetcher
+
+**AI Knowledge Assistant** — 🚧 *in progress*
+- Retrieval-augmented Q&A over a document set, built from scratch
+- Exploring RAG pipelines, MCP tool integration, and evaluation of answer quality
+- Build notes and lessons learned will be shared on LinkedIn
 
 ---
 
@@ -33,6 +38,7 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Drupal](https://img.shields.io/badge/Drupal-0C4B33?style=flat&logo=drupal&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -48,6 +54,8 @@
 **AI & Observability**  
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white)
 ![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-FF9900?style=flat&logo=amazonwebservices&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=flat&logo=anthropic&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat&logo=sentry&logoColor=white)
 ![New Relic](https://img.shields.io/badge/New_Relic-1CE783?style=flat&logo=newrelic&logoColor=black)
@@ -56,10 +64,12 @@
 
 ### 🌱 Currently
 
-- 🧠 Exploring RAG and retrieval patterns for editorial content
-- 🐍 Sharpening Python with small build-and-ship projects
+- 🧠 Building RAG and retrieval patterns for editorial content
+- 🔌 Learning the Claude API, MCP, and agent workflows hands-on
 - 🏗️ Deepening system design, observability, and automation at scale
 - 🎯 Mentoring engineers and untangling complex legacy systems
+
+**Recent:** 🏅 Databricks Accredited — Generative AI Fundamentals (2026)
 
 ---
 
